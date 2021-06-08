@@ -4,7 +4,7 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElTarquin&show_icons=true&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElTarquin&theme=tokyonight)
 
 
 ![alt text](https://lh3.googleusercontent.com/vRBor_KMbBSRnh6XQm16X6kCczQgtF38va3DlQy2mL-mEMhxu5IlKN1SmJoFEcIC_hjGgfc=s149)
