@@ -1,4 +1,6 @@
-- 👋 MoI eTrE @ElTarquin
+<h1 align="center">Hi 👋, MoI eTrE @ElTarquin</h1>  
+<h3 align="center">Discord: Tarquin#2021</h3>
+
 - 👀 j'aime la technologie et les jeux vidéos 
 - 📫 Discord : Tarquin#2021
 - j'ai crée un serveur minecraft moddé entre pote (War Of Survivors)
