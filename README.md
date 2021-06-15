@@ -15,5 +15,5 @@
 ## 🙏 Support
 
 <p align="left">
-<a href="https://www.paypal.com/paypalme/PetitFlocon/10"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
+<a href="https://www.paypal.com/paypalme/PetitFlocon/"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
 </a>
