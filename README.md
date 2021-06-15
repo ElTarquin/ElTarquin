@@ -12,3 +12,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElTarquin&theme=tokyonight)
 
 
+## 🙏 Support
+
+<p align="left">
+<a href="https://www.paypal.com/paypalme/PetitFlocon/10"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
+</a>
