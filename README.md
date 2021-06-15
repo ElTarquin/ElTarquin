@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, MoI eTrE @ElTarquin</h1>  
+<h1 align="center">Salut 👋, je suis tarquin x) @ElTarquin</h1>  
 <h3 align="center">Discord: Tarquin#2021</h3>
 
 - 👀 j'aime la technologie et les jeux vidéos 
