@@ -4,7 +4,6 @@
 - 👀 j'aime la technologie et les jeux vidéos 
 - 📫 Discord : Tarquin#2021
 - j'ai crée un serveur minecraft moddé entre pote (War Of Survivors)
-- j'esseye de créer un site internet 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ElTarquin" alt="ElTarquin" /> </p>
 
