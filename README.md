@@ -2,7 +2,7 @@
 <h3 align="center">Discord: Tarquin#2021</h3>
 
 - 👀 j'aime la technologie et les jeux vidéos 
-- 📫 Discord : Tarquin#2021
+- 📫 Discord : Tarquin#2022
 - j'ai crée un serveur minecraft moddé entre pote (War Of Survivors)
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ElTarquin" alt="ElTarquin" /> </p>
